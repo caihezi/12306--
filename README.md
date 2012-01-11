@@ -23,4 +23,4 @@
 
 *	[自动查票](https://gist.github.com/1554666) 
 *	[自动登录](https://gist.github.com/1570973) 
-*	[自动订单](https://gist.github.com/1577671) 
+*	[自动订单](https://gist.github.com/1580883) 
